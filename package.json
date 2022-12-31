@@ -37,7 +37,7 @@
     "@storybook/testing-library": "0.0.13",
     "@svgr/webpack": "6.5.1",
     "babel-loader": "8.2.5",
-    "eslint": "8.27.0",
+    "eslint": "8.31.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
     "husky": "8.0.2",
